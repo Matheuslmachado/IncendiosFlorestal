@@ -33,16 +33,19 @@ O mesmo padrão é observado na região Nordeste, com 48% dos focos registrados 
 
 ### Filtros e Interatividade
 
-- **Filtro Global:** Permite visualização dinamica dos graficos possibilitando filtragem entre si de forma facil e navegavel.
-- **Período:** Permite navegar por períodos de tempo para analise temporal menores ou tempo especifico.
-- **Mês:** Analise mensal que interagem com todos os gráficos permitindo insights de períodos especifico.
-- **Estado/Região:**
+- **Filtro Global:** Permite visualização dinamica dos graficos possibilitando filtragem entre si de forma facil e navegavel;
+- **Período:** Permite navegar por períodos de tempo para analise temporal menores ou tempo especifico;
+- **Mês:** Analise mensal que interagem com todos os gráficos permitindo insights de períodos especifico;
+- **Estado/Região:** Visualização geografica permitindo análise de tempo e espaço como forma de explora regiões especificas do Brasil.
 
 ### Considerações Finais
 
 O conjunto de dados "Florest Fires" permite uma visão abrangente e detalhada sobre a ocorrência de incêndios florestais, permitindo insights importantes para a preservação e gestão de desastres naturais. Deve ser investigado dados sobre uso do solo e panorama climatico para dar mais embasamento na tomadas de decisão, bem como recuperação de áreas afetadas e apoio socioeconomico a população.
 
 [link do Dataset](https://www.kaggle.com/datasets/gustavomodelli/forest-fires-in-brazil)
-*Obs:*O dataset não incluiu dados de Estados, como Mato Gosso do Sul, Paraná e Rio Grande do Sul, podendo impactar a análise de forma transparente.
+
+*Obs:* O dataset não incluiu dados de Estados, como Mato Gosso do Sul, Paraná e Rio Grande do Sul, podendo impactar a análise de forma transparente.
+
+*Layout:* Criado no Figma
 
 
