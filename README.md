@@ -6,6 +6,7 @@ Este projeto consiste na análise detalhada dos dados de registro de incêndios 
 
 
 
+
 ![FlorestFires](https://github.com/user-attachments/assets/e51d8e60-b7e6-4351-9acc-f324b84a023f)
 *Link para o acesso ao Dashboard:* [Dashboard Florest Fires](https://app.powerbi.com/reportEmbed?reportId=19a0a391-2c80-4baa-83f9-aaaebf8f70a9&autoAuth=true&ctid=908c7dda-c74d-40de-947a-c8dd7f70524e)
 
@@ -42,10 +43,9 @@ O mesmo padrão é observado na região Nordeste, com 48% dos focos registrados 
 
 O conjunto de dados "Florest Fires" permite uma visão abrangente e detalhada sobre a ocorrência de incêndios florestais, permitindo insights importantes para a preservação e gestão de desastres naturais. Deve ser investigado dados sobre uso do solo e panorama climatico para dar mais embasamento na tomadas de decisão, bem como recuperação de áreas afetadas e apoio socioeconomico a população.
 
-[link do Dataset](https://www.kaggle.com/datasets/gustavomodelli/forest-fires-in-brazil)
-
-*Obs:* O dataset não incluiu dados de Estados, como Mato Gosso do Sul, Paraná e Rio Grande do Sul, podendo impactar a análise de forma transparente.
+**Base de Dados:**[link do Dataset](https://www.kaggle.com/datasets/gustavomodelli/forest-fires-in-brazil)
 
 *Layout:* Criado no Figma
 
+*Obs:* O dataset não incluiu dados de Estados, como Mato Gosso do Sul, Paraná e Rio Grande do Sul, podendo impactar a análise de forma transparente.
 
