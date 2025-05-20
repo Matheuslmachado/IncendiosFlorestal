@@ -7,7 +7,7 @@ Este projeto consiste na análise detalhada dos dados de registro de incêndios 
 
 
 
-![FlorestFires](https://github.com/Matheuslmachado/IncendiosFlorestal/issues/1#issue-3072154903)
+![FlorestFires](https://github.com/user-attachments/assets/3d4d410b-61ed-47a5-9742-2f5d47624828)
 *Link para o acesso ao Dashboard:* [Dashboard Florest Fires](https://app.powerbi.com/reportEmbed?reportId=19a0a391-2c80-4baa-83f9-aaaebf8f70a9&autoAuth=true&ctid=908c7dda-c74d-40de-947a-c8dd7f70524e)
 
 ### Insights Obtidos
