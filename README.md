@@ -47,7 +47,7 @@ O conjunto de dados "Florest Fires" permite uma visão abrangente e detalhada so
 
 *Layout:* Criado no Figma
 
-**Veja a análise completa: **[Artigo no Médium](https://medium.com/@contato.matheuslmachado/an%C3%A1lise-de-dados-de-inc%C3%AAndios-floretais-no-brasil-1998-2017-9c15d732f10e)
+**Veja a análise completa:** [Artigo no Médium](https://medium.com/@contato.matheuslmachado/an%C3%A1lise-de-dados-de-inc%C3%AAndios-floretais-no-brasil-1998-2017-9c15d732f10e)
 
 **Premissa da Análise:** O dataset não incluiu dados do estato Mato Gosso do Sul, Paraná e Rio Grande do Sul, podendo impactar a análise de forma transparente e macroregional.
 
