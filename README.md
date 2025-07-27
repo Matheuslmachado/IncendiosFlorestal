@@ -47,5 +47,5 @@ O conjunto de dados "Florest Fires" permite uma visão abrangente e detalhada so
 
 *Layout:* Criado no Figma
 
-*Obs:* O dataset não incluiu dados de Estados, como Mato Gosso do Sul, Paraná e Rio Grande do Sul, podendo impactar a análise de forma transparente.
+**Premissa da Análise:** O dataset não incluiu dados do estato Mato Gosso do Sul, Paraná e Rio Grande do Sul, podendo impactar a análise de forma transparente e macroregional.
 
